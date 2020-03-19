@@ -1,0 +1,3 @@
+Download - 
+    npm install angular-file-saver
+    required for saveAs() in encrypt component
